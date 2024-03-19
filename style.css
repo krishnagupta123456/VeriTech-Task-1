@@ -1,0 +1,54 @@
+.team .container .section-title h1{
+    margin-top: 40px;
+}
+.team .container .section-title h1 span{
+    background-color: #a8329d;
+    color: #fff; 
+    padding: 5px 10px; 
+    border-radius: 5px;
+}
+
+.team .container .section-title div{
+    border-bottom: 1px dotted #a8329d;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.team .container h5{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.team .container h5 span{
+    background-color:#a8329d;
+    color: #fff; 
+    padding: 5px 10px; 
+    border-radius: 5px;
+}
+
+.team-member {
+    text-align: center;
+}
+
+.team-member img {
+    border-radius: 50%;
+    max-width: 100%;
+    height: auto;
+}
+
+
+.team-member h4 {
+    color: #000; 
+    font-size: 25px; 
+}
+
+
+.team-member span {
+    color: #a8329d; 
+    font-style: italic;
+    font-size: 14px; 
+}
+.section-title h4 span {
+    background-color: #a8329d;
+    color: #fff; 
+    padding: 5px 10px; 
+    border-radius: 5px; 
+}
